@@ -1,0 +1,10 @@
+Generated with the built-in image_gen tool on 2026-11-24.
+Editorial illustration; not a photograph of the author's home.
+
+Use case: illustration-story.
+Asset type: one editorial cover illustration for a Chinese personal essay introducing an education and parenting column.
+Primary request: a quiet, welcoming study desk suggesting learning, parenting reflection and reading research. No people.
+Scene: a lived-in wooden desk beside a softly lit window, an open notebook with only abstract unreadable marks, a couple of plain books with no readable titles, a pencil, and a small potted plant. Beyond the window a subtle tree silhouette.
+Style: sophisticated hand-painted editorial illustration, gentle watercolor and textured paper, restrained natural colors, warm ivory, muted green and warm wood. Calm, thoughtful and credible rather than childish or exam-focused.
+Composition: a single wide horizontal illustration about 2.35:1, generous breathing room, all essential objects inside the central area to tolerate cropping. No panels.
+Constraints: no text, no numbers, no watermark, no logos, no certificates, no school names, no uniforms, no children or adults, no family photos, no grades or personal information. Illustrative scene only, never imply it is a real photograph of the author's home.

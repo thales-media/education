@@ -1,0 +1,4 @@
+Tool: built-in image_gen, image edit. Date: 2026-11-24.
+Reference: boss-rest-and-recover.png. Saved as a new version.
+
+Edit this original pixel-art triptych. Preserve the entire first and second panels exactly: the adventurer defeating the stone boss with low health, and resting/drinking a potion at the campfire. Change only the third/right panel. Replace the quiet path scene with the same recovered adventurer actively battling the next boss, a large airborne winged fire dragon. The hero has just started this new battle after healing: show six full red hearts at the top, a dynamic sword strike and a shield blocking a small fire blast, the dragon flying above him, exciting but no injury or gore. Keep the exact original pixel style, palette, proportions, panel divisions and hero design. No text, letters, numerals, logos or watermark. Only the third panel should be changed; left two panels must remain untouched.

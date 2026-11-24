@@ -1,0 +1,7 @@
+Tool: built-in image_gen, reference-guided generation. Date: 2026-11-24.
+Reference: boss-rest-and-recover.png.
+
+Use case: illustration-story. Create a new two-panel horizontal pixel-art comparison illustration matching the supplied reference's original fictional adventurer, dragon-fantasy setting, six-heart health UI and crisp 16-bit pixel style.
+Left panel: AFTER RESUPPLY, the same brown-haired adventurer with red scarf and blue tunic has won against a large winged fire dragon. He stands victorious with sword raised, a few remaining filled hearts in a six-heart health bar; the dragon lies peacefully defeated with closed eyes in the background, magical sparkles and treasure. Clear achievement and relief.
+Right panel: WITHOUT RESUPPLY, the same adventurer has lost to the same dragon. He sits safely but visibly exhausted on the ground, sword and shield dropped nearby, all six health hearts empty, the airborne dragon looms victorious above. Depict game defeat, no injury or gore, no death.
+Use two equally sized panels, consistent framing, equal scale of hero and dragon, same recognizable dragon design on both sides. Keep the same hand-crafted square-pixel aesthetics and warm green/purple palette as reference. Both outcomes must be instantly clear on a phone. Wide landscape 2:1. No text, letters, numbers, logos, watermark, identifiable real persons or copyrighted game elements. This is a fictional game metaphor, not academic evidence.
