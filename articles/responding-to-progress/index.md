@@ -6,6 +6,8 @@
 
 我觉得，先别急。
 
+一次进步就等于能持续进步吗？
+
 **孩子刚取得一次成功，先让他站稳、补给一下，再去挑战下一个目标。**
 
 ## 刚打赢石像怪，别残血去打飞龙
@@ -53,7 +55,7 @@
 
 原因可能不止一个。但第一次前十带来的喜悦，很快就变成了下一次前五的任务。她是否掌握了继续前进的方法，是否需要休息和巩固，还没来得及讨论。接连达不到新的要求，也可能消磨孩子继续努力的信心。
 
-### B：从倒数到前十，用了两年
+### B：从倒数到前十，努力两年
 
 朋友的儿子B，刚上中学时，排名倒数。
 
@@ -73,11 +75,11 @@
 
 到了优等生竞争激烈的阶段，名次越高，守住名次的压力往往也越明显：自己进步了，别人也在进步。家长更需要帮孩子缓解压力，看见整体进步，再一起分析具体问题。
 
-Nathaniel汇总238项研究发现，考试焦虑与多种学业表现指标呈负相关。[[2]](https://doi.org/10.1016/j.jad.2017.11.048)。这提醒我们，要留意孩子的焦虑，别让每次考好都变成更沉的负担。
+Nathaniel汇总238项研究发现，考试焦虑与多种学业表现指标呈负相关[[2]](https://doi.org/10.1016/j.jad.2017.11.048)。这提醒我们，要留意孩子的焦虑，别让每次考好都变成更沉的负担。
 
-## 我会问：不会的题，现在会了吗？
+## 知识掌握更重要
 
-孩子每次考完，我基本都会问：有没有不会的题？后来弄懂了吗？下次再出现，会不会做？
+我儿子每次考完，我基本都会问：有没有不会的题？后来弄懂了吗？下次再出现，会不会做？
 
 英国教育捐赠基金会（EEF）的反馈综述强调，反馈要具体、可以行动。这些证据主要来自教学场景，我把这个原则作为家庭交流的参考：一起弄清哪些题学会了、哪些方法有效，比只说“下次再多考几分”更有着落[[3]](https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit/feedback)。
 
@@ -95,6 +97,6 @@ Nathaniel汇总238项研究发现，考试焦虑与多种学业表现指标呈�
 
 ## 参考资料
 
-1. Barnett, A. G., et al. (2005). Regression to the mean: what it is and how to deal with it. *International Journal of Epidemiology, 34*(1), 215–220. [DOI:10.1093/ije/dyh299](https://doi.org/10.1093/ije/dyh299).
-2. von der Embse, N., et al. (2018). Test anxiety effects, predictors, and correlates: A 30-year meta-analytic review. *Journal of Affective Disorders, 227*, 483–493. [DOI:10.1016/j.jad.2017.11.048](https://doi.org/10.1016/j.jad.2017.11.048).
-3. Education Endowment Foundation. *Feedback: Teaching and Learning Toolkit*. [证据综述](https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit/feedback).
+1. Barnett, A. G., et al. (2005). Regression to the mean: what it is and how to deal with it. *International Journal of Epidemiology, 34*(1), 215–220. https://doi.org/10.1093/ije/dyh299
+2. von der Embse, N., et al. (2018). Test anxiety effects, predictors, and correlates: A 30-year meta-analytic review. *Journal of Affective Disorders, 227*, 483–493. https://doi.org/10.1016/j.jad.2017.11.048
+3. Education Endowment Foundation. *Feedback: Teaching and Learning Toolkit*. https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit/feedback
