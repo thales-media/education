@@ -1,4 +1,4 @@
-# 孩子从80多分考到90分，先别急着要求95分
+# 孩子进步了，先别急着加码
 
 ![成绩路径示意：从80分升到90分后，红线到95分，绿线保持90分，灰线回落到70分。](assets/cover.png)
 
@@ -10,11 +10,13 @@
 
 ## 刚打赢石像怪，别残血去打飞龙
 
-打游戏时，刚赢了一个Boss，拿到新成就，却只剩一点血。你会直接冲向下一关吗？
+打游戏时，刚打赢一个Boss，拿到新成就，你会直接冲向下一关吗？
+
+到底是完胜还是险胜？自己状态到底怎么样？是否已经残血了？
 
 通常会先整理装备、补充药水，熟悉新的环境，再满血挑战下一个Boss。
 
-![三格像素画：残血打赢石头Boss，在营地喝药补给，满血后与飞龙Boss战斗。](assets/boss-rest-and-recover-v2.png)
+![三格像素画：残血打赢石头Boss，在营地喝药补给，满血后与飞龙Boss战斗。](assets/boss-rest-and-recover.png)
 
 如果跳过中间的补给，直接残血去打飞龙，很可能通关失败，挫败感也跟着来了。
 
@@ -37,7 +39,7 @@
 
 分析原因需要了解过程，不能只凭一次涨分下判断。
 
-**Barnett介绍的“均值回归”现象提醒我们：** 一次异常高的测量值如果包含偶然因素，后续结果可能不再那么极端。考试是否可比、孩子是否真正进步，也要一起看。一次90分，不能立刻变成以后每次考试的最低标准[[1]](https://doi.org/10.1093/ije/dyh299)。
+**Barnett介绍的“均值回归”现象提醒我们：** 一次异常高的测量值如果包含偶然因素，后续结果可能不再那么极端。还要看看两次考试的难度、考查范围和评分尺度是否接近，以及孩子是否真正掌握了知识。一次90分，不能立刻变成以后每次考试的最低标准[[1]](https://doi.org/10.1093/ije/dyh299)。
 
 ## 三个孩子的经历
 
@@ -49,7 +51,7 @@
 
 后来，她没拿到iPad，成绩也越来越差。
 
-原因可能不止一个。但第一次前十带来的喜悦，很快就变成了下一次前五的任务。她是否掌握了继续前进的方法，是否需要休息和巩固，还没来得及讨论。
+原因可能不止一个。但第一次前十带来的喜悦，很快就变成了下一次前五的任务。她是否掌握了继续前进的方法，是否需要休息和巩固，还没来得及讨论。接连达不到新的要求，也可能消磨孩子继续努力的信心。
 
 ### B：从倒数到前十，用了两年
 
@@ -59,7 +61,7 @@
 
 第一年下学期期中，排名回落一点，家长没有埋怨，仍然重视他有没有保持认真学习的习惯。到期末，他又有了明显进步。
 
-**这样上升一些、回落一点，经过两年，他进入了年级前十。班主任把这个过程称为“螺旋上升”。**
+**这样上升多一些、回落少一点，经过两年，他进入了年级前十。班主任把这个过程称为“螺旋上升”。**
 
 这是一段实实在在的逆袭，但它需要时间。中间那些看起来没有继续上涨的阶段，也给巩固和积累留出了空间。
 
@@ -67,17 +69,17 @@
 
 ### C：名次靠前了，更需要减压
 
-朋友的女儿C，成绩一直很好，一次终于考到班级第一。后一次考试落了回去，但年级排名仍在上升。家长却盯着英语，追问为什么考差了。
+朋友的女儿C，成绩一直很好，一次终于考到班级第一。下一次考试，班级名次有所回落，但年级排名仍在上升。家长却盯着稍微差一点的科目，追问为什么考差了。
 
 到了优等生竞争激烈的阶段，名次越高，守住名次的压力往往也越明显：自己进步了，别人也在进步。家长更需要帮孩子缓解压力，看见整体进步，再一起分析具体问题。
 
-> von der Embse汇总238项研究发现，考试焦虑与多种学业表现指标呈负相关。这不能证明某次退步由压力造成，但足以提醒我们留意孩子的焦虑，别让每次考好都变成更沉的负担[[2]](https://pubmed.ncbi.nlm.nih.gov/29156362/)。
+Von der Embse汇总238项研究发现，考试焦虑与多种学业表现指标呈负相关。[[2]](https://pubmed.ncbi.nlm.nih.gov/29156362/)。这提醒我们，要留意孩子的焦虑，别让每次考好都变成更沉的负担。
 
 ## 我会问：不会的题，现在会了吗？
 
 孩子每次考完，我基本都会问：有没有不会的题？后来弄懂了吗？下次再出现，会不会做？
 
-> 英国教育捐赠基金会（EEF）的反馈综述强调，反馈要具体、可以行动。这些证据主要来自教学场景，我把这个原则作为家庭交流的参考：一起弄清哪些题学会了、哪些方法有效，比只说“下次再多考几分”更有着落[[3]](https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit/feedback)。
+英国教育捐赠基金会（EEF）的反馈综述强调，反馈要具体、可以行动。这些证据主要来自教学场景，我把这个原则作为家庭交流的参考：一起弄清哪些题学会了、哪些方法有效，比只说“下次再多考几分”更有着落[[3]](https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit/feedback)。
 
 所谓“稳住”，就是把已经掌握的知识和有效习惯留下来，不是要求下次分数只能升、不能降。
 
@@ -93,6 +95,6 @@
 
 ## 参考资料
 
-1. Barnett, A. G., et al. (2005). Regression to the mean: what it is and how to deal with it. *International Journal of Epidemiology, 34*(1), 215–220. [DOI](https://doi.org/10.1093/ije/dyh299).
-2. von der Embse, N., et al. (2018). Test anxiety effects, predictors, and correlates: A 30-year meta-analytic review. *Journal of Affective Disorders, 227*, 483–493. [DOI](https://doi.org/10.1016/j.jad.2017.11.048).
+1. Barnett, A. G., et al. (2005). Regression to the mean: what it is and how to deal with it. *International Journal of Epidemiology, 34*(1), 215–220. [DOI:10.1093/ije/dyh299](https://doi.org/10.1093/ije/dyh299).
+2. von der Embse, N., et al. (2018). Test anxiety effects, predictors, and correlates: A 30-year meta-analytic review. *Journal of Affective Disorders, 227*, 483–493. [DOI:10.1016/j.jad.2017.11.048](https://doi.org/10.1016/j.jad.2017.11.048).
 3. Education Endowment Foundation. *Feedback: Teaching and Learning Toolkit*. [证据综述](https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit/feedback).
