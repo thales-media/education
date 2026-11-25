@@ -8,6 +8,7 @@
 | --- | --- | --- |
 | 2026-11-24 | [孩子渐渐长大，我想开始写写教育](articles/introduction/index.md) | 草稿 |
 | 2026-11-24 | [孩子从80多分考到90分，先别急着要求95分](articles/responding-to-progress/index.md) | 草稿 |
+| 2026-11-25 | [感恩节英语｜10个单词，把感谢说出来](articles/thanksgiving/index.md) | 草稿，附音标与可播放版 |
 
 ## 文件组织
 

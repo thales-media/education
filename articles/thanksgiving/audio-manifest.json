@@ -1,0 +1,110 @@
+[
+  {
+    "id": "01-thanksgiving",
+    "text": "Thanksgiving",
+    "ipa": "ˌθæŋksˈɡɪvɪŋ",
+    "meaning": "感恩节",
+    "tip": "开头的 /θ/ 要轻轻送气，别读成 /s/。",
+    "picture": "assets/vocabulary/thanksgiving-small.png",
+    "file": "audio/01-thanksgiving.wav"
+  },
+  {
+    "id": "02-harvest",
+    "text": "harvest",
+    "ipa": "ˈhɑːrvɪst",
+    "meaning": "收获；丰收",
+    "tip": "从秋日丰收，想到一年里的成长与收获。",
+    "picture": "assets/vocabulary/harvest-small.png",
+    "file": "audio/02-harvest.wav"
+  },
+  {
+    "id": "03-turkey",
+    "text": "turkey",
+    "ipa": "ˈtɝːki",
+    "meaning": "火鸡",
+    "tip": "美国感恩节餐桌上的代表性食物。",
+    "picture": "assets/vocabulary/turkey-small.png",
+    "file": "audio/03-turkey.wav"
+  },
+  {
+    "id": "04-pumpkin",
+    "text": "pumpkin",
+    "ipa": "ˈpʌmpkɪn",
+    "meaning": "南瓜",
+    "tip": "做成南瓜派，是常见的节日甜点。",
+    "picture": "assets/vocabulary/pumpkin-small.png",
+    "file": "audio/04-pumpkin.wav"
+  },
+  {
+    "id": "05-cranberry",
+    "text": "cranberry",
+    "ipa": "ˈkrænberi",
+    "meaning": "蔓越莓",
+    "tip": "酸甜的蔓越莓酱，常用来搭配火鸡。",
+    "picture": "assets/vocabulary/cranberry-small.png",
+    "file": "audio/05-cranberry.wav"
+  },
+  {
+    "id": "06-feast",
+    "text": "feast",
+    "ipa": "fiːst",
+    "meaning": "盛宴",
+    "tip": "形容一顿丰盛的大餐。",
+    "picture": "assets/vocabulary/feast-small.png",
+    "file": "audio/06-feast.wav"
+  },
+  {
+    "id": "07-thankful",
+    "text": "thankful",
+    "ipa": "ˈθæŋkfəl",
+    "meaning": "感激的；心怀感谢的",
+    "tip": "想到值得感谢的人和事，就可以用上它。",
+    "picture": "assets/vocabulary/thankful-small.png",
+    "file": "audio/07-thankful.wav"
+  },
+  {
+    "id": "08-grateful",
+    "text": "grateful",
+    "ipa": "ˈɡreɪtfəl",
+    "meaning": "感激的",
+    "tip": "常用来表达对他人帮助的感谢。",
+    "picture": "assets/vocabulary/grateful-small.png",
+    "file": "audio/08-grateful.wav"
+  },
+  {
+    "id": "09-gratitude",
+    "text": "gratitude",
+    "ipa": "ˈɡrætətuːd",
+    "meaning": "感激之情；感恩",
+    "tip": "这是名词；前面两个词是形容词。",
+    "picture": "assets/vocabulary/gratitude-small.png",
+    "file": "audio/09-gratitude.wav"
+  },
+  {
+    "id": "10-bless",
+    "text": "bless",
+    "ipa": "bles",
+    "meaning": "祝福；保佑（动词）",
+    "tip": "为他人祈愿平安与幸福。",
+    "picture": "assets/vocabulary/bless-small.png",
+    "file": "audio/10-bless.wav"
+  },
+  {
+    "id": "11-happy-thanksgiving",
+    "text": "Happy Thanksgiving!",
+    "ipa": "ˈhæpi ˌθæŋksˈɡɪvɪŋ",
+    "meaning": "感恩节快乐！",
+    "tip": "",
+    "picture": null,
+    "file": "audio/11-happy-thanksgiving.wav"
+  },
+  {
+    "id": "12-i-m-grateful-for-your-help",
+    "text": "I'm grateful for your help.",
+    "ipa": "aɪm ˈɡreɪtfəl fər jʊr help",
+    "meaning": "谢谢你的帮助。",
+    "tip": "",
+    "picture": null,
+    "file": "audio/12-i-m-grateful-for-your-help.wav"
+  }
+]

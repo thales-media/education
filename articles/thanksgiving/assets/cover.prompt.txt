@@ -1,0 +1,11 @@
+Tool: built-in image_gen (generation, followed by one targeted edit)
+
+Use case: illustration-story.
+Asset type: final WeChat public-account article cover, wide landscape aspect ratio 2.35:1, ideally 1880 by 800 pixels.
+Primary request: A polished warm editorial illustration for a concise Chinese family English-learning article about Thanksgiving vocabulary and gratitude.
+Scene: ivory paper background, textured gouache and paper-cut collage, a roasted turkey platter, one pumpkin and small red cranberries, golden autumn leaves, a small open English vocabulary notebook and a modest speaker icon. Refined spacious composition, sophisticated restrained burnt orange, ochre, warm cream and sage. No human figures or historical reenactment. All main content and text safely inside the middle 80% with generous margins, no edge clipping.
+Text exactly: large clear Chinese headline “感恩节英语” and smaller subtitle “听发音 · 学词汇 · 说感谢”. Small elegant English label “THANKSGIVING”. Ensure Chinese glyphs correctly rendered and text is very legible at mobile thumbnail size. Do not add other text, date, logos, watermarks or mockup frame.
+The cover should feel like an inviting illustrated educational magazine, tasteful and uncluttered, rather than a busy holiday advertisement.
+
+Final targeted edit:
+Edit this existing cover with exactly one targeted change: on the notebook at bottom right replace the handwritten English word “family” with “harvest”. Preserve every other pixel as closely as possible: exact landscape dimensions, illustration, Chinese headline and subtitle, English THANKSGIVING, speaker icon, turkey, pumpkin, colors, layout, paper textures and all other notebook words. Correctly spell harvest. Do not add anything else.
