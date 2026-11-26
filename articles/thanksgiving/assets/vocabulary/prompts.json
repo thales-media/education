@@ -1,4 +1,54 @@
 {
   "tool": "built-in image_gen",
-  "display_size": "64 x 64 CSS pixels"
+  "display_size": "64 x 64 CSS pixels",
+  "illustrations": [
+  {
+    "name": "thanksgiving",
+    "prompt": "Create ONE small square vocabulary illustration for an English learning article. Consistent illustrated dictionary style: simple warm gouache watercolor, rounded clean shapes, restrained burnt orange, cream, sage green and natural colors, subtle hand-painted texture. Centered complete subject, wide clean white margins, plain white background. Strong recognizable silhouette legible when displayed at 56px wide. No text, letters, numbers, borders, logos, emoji glyphs, or watermark. Not a collage, not a sheet. Subject: A small present-day family gathered around a Thanksgiving dinner table, sharing food with warm appreciative expressions, miniature 3-person scene. No historical costumes."
+  },
+  {
+    "name": "harvest",
+    "prompt": "Create ONE small square vocabulary illustration for an English learning article. Consistent illustrated dictionary style: simple warm gouache watercolor, rounded clean shapes, restrained burnt orange, cream, sage green and natural colors, subtle hand-painted texture. Centered complete subject, wide clean white margins, plain white background. Strong recognizable silhouette legible when displayed at 56px wide. No text, letters, numbers, borders, logos, emoji glyphs, or watermark. Not a collage, not a sheet. Subject: A tied bundle of golden wheat stalks beside a small basket of freshly harvested corn and squash, visually showing a bountiful harvest."
+  },
+  {
+    "name": "turkey",
+    "prompt": "Create ONE small square vocabulary illustration for an English learning article. Consistent illustrated dictionary style: simple warm gouache watercolor, rounded clean shapes, restrained burnt orange, cream, sage green and natural colors, subtle hand-painted texture. Centered complete subject, wide clean white margins, plain white background. Strong recognizable silhouette legible when displayed at 56px wide. No text, letters, numbers, borders, logos, emoji glyphs, or watermark. Not a collage, not a sheet. Subject: One living adult wild turkey bird, standing in a three-quarter view with a clearly recognizable fanned tail, red wattle, brown feather patterns. Show the whole bird, not cooked poultry."
+  },
+  {
+    "name": "pumpkin",
+    "prompt": "Create ONE small square vocabulary illustration for an English learning article. Consistent illustrated dictionary style: simple warm gouache watercolor, rounded clean shapes, restrained burnt orange, cream, sage green and natural colors, subtle hand-painted texture. Centered complete subject, wide clean white margins, plain white background. Strong recognizable silhouette legible when displayed at 56px wide. No text, letters, numbers, borders, logos, emoji glyphs, or watermark. Not a collage, not a sheet. Subject: One whole round orange pumpkin, with clear deep ribs and a short green-brown curved stem, one small leaf."
+  },
+  {
+    "name": "cranberry",
+    "prompt": "Create ONE small square vocabulary illustration for an English learning article. Consistent illustrated dictionary style: simple warm gouache watercolor, rounded clean shapes, restrained burnt orange, cream, sage green and natural colors, subtle hand-painted texture. Centered complete subject, wide clean white margins, plain white background. Strong recognizable silhouette legible when displayed at 56px wide. No text, letters, numbers, borders, logos, emoji glyphs, or watermark. Not a collage, not a sheet. Subject: A small cluster of real red cranberries, round-to-oval dark ruby berries, with one short twig and small oval green leaves; also three loose berries. Cranberries, not cherries: no long cherry stems, no paired cherries."
+  },
+  {
+    "name": "feast",
+    "prompt": "Create ONE small square vocabulary illustration for an English learning article. Consistent illustrated dictionary style: simple warm gouache watercolor, rounded clean shapes, restrained burnt orange, cream, sage green and natural colors, subtle hand-painted texture. Centered complete subject, wide clean white margins, plain white background. Strong recognizable silhouette legible when displayed at 56px wide. No text, letters, numbers, borders, logos, emoji glyphs, or watermark. Not a collage, not a sheet. Subject: A miniature abundant feast spread on a short table: roasted turkey platter, vegetables, rolls and pumpkin pie, clearly many dishes forming a lavish meal."
+  },
+  {
+    "name": "thankful",
+    "prompt": "Create ONE small square vocabulary illustration for an English learning article. Consistent illustrated dictionary style: simple warm gouache watercolor, rounded clean shapes, restrained burnt orange, cream, sage green and natural colors, subtle hand-painted texture. Centered complete subject, wide clean white margins, plain white background. Strong recognizable silhouette legible when displayed at 56px wide. No text, letters, numbers, borders, logos, emoji glyphs, or watermark. Not a collage, not a sheet. Subject: A person with eyes softly closed, hands gently together near their chest, giving thanks before a simple meal; appreciative expression and natural human hands, a tiny bowl visible."
+  },
+  {
+    "name": "grateful",
+    "prompt": "Create ONE small square vocabulary illustration for an English learning article. Consistent illustrated dictionary style: simple warm gouache watercolor, rounded clean shapes, restrained burnt orange, cream, sage green and natural colors, subtle hand-painted texture. Centered complete subject, wide clean white margins, plain white background. Strong recognizable silhouette legible when displayed at 56px wide. No text, letters, numbers, borders, logos, emoji glyphs, or watermark. Not a collage, not a sheet. Subject: A person receiving help to stand up from another person, then looking at the helper with an appreciative smile and one hand over their heart, a clear scene of being grateful for someone's help."
+  },
+  {
+    "name": "gratitude",
+    "prompt": "Create ONE small square vocabulary illustration for an English learning article. Consistent illustrated dictionary style: simple warm gouache watercolor, rounded clean shapes, restrained burnt orange, cream, sage green and natural colors, subtle hand-painted texture. Centered complete subject, wide clean white margins, plain white background. Strong recognizable silhouette legible when displayed at 56px wide. No text, letters, numbers, borders, logos, emoji glyphs, or watermark. Not a collage, not a sheet. Subject: A person seated at a tiny desk writing a thank-you card, with a small flower beside it, expressing gratitude through an action. Card must have only a small drawn heart, no words."
+  },
+  {
+    "name": "bless",
+    "prompt": "Create ONE small square vocabulary illustration for an English learning article. Consistent illustrated dictionary style: simple warm gouache watercolor, rounded clean shapes, restrained burnt orange, cream, sage green and natural colors, subtle hand-painted texture. Centered complete subject, wide clean white margins, plain white background. Strong recognizable silhouette legible when displayed at 56px wide. No text, letters, numbers, borders, logos, emoji glyphs, or watermark. Not a collage, not a sheet. Subject: A kind older adult standing beside a seated younger adult, gently holding one open hand above the younger person's shoulder in a gesture of blessing and good wishes; both look peaceful and warm. Clearly depict one person giving a blessing to another. No fantasy effects or deity."
+  },
+  {
+    "name": "happy-thanksgiving",
+    "prompt": "One square miniature vocabulary illustration for a Chinese English-learning article, matching warm gouache watercolor illustrated-dictionary style, rounded clean shapes, burnt orange, cream and sage green, natural skin colors, subtle hand painted texture, plain white background and generous clean margins. Strong readable silhouette when displayed at 64 by 64 pixels. One complete scene centered. No text, letters, speech bubbles, symbols, borders, logos, emoji, or watermark. Subject: A cheerful contemporary family of three raising glasses of apple juice and smiling toward each other around a small Thanksgiving dinner table with roast turkey and one pumpkin. Clearly convey a joyful Thanksgiving greeting. No historical costumes."
+  },
+  {
+    "name": "i-m-grateful-for-your-help",
+    "prompt": "One square miniature vocabulary illustration for a Chinese English-learning article, matching warm gouache watercolor illustrated-dictionary style, rounded clean shapes, burnt orange, cream and sage green, natural skin colors, subtle hand painted texture, plain white background and generous clean margins. Strong readable silhouette when displayed at 64 by 64 pixels. One complete scene centered. No text, letters, speech bubbles, symbols, borders, logos, emoji, or watermark. Subject: Two friendly contemporary adults beside a few dropped books: one person has just helped pick up the other person's books and is handing them back. The recipient smiles warmly at the helper with their free hand over their heart, visibly expressing heartfelt thanks for the help. Natural anatomically clear hands, simple uncluttered miniature scene."
+  }
+]
 }

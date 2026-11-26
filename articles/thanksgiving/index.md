@@ -28,7 +28,7 @@ Edward Winslow, “A Letter Sent from New England,” 收于 Mourt’s Relation�
 
 ## 节日与餐桌
 
-### <img src="assets/vocabulary/thanksgiving-small.png" width="64" height="64" alt="感恩节"> Thanksgiving /ˌθæŋksˈɡɪvɪŋ/
+### <img src="assets/vocabulary/thanksgiving.png" width="64" height="64" alt="感恩节"> Thanksgiving /ˌθæŋksˈɡɪvɪŋ/
 
 **感恩节** 开头的 /θ/ 要轻轻送气，别读成 /s/。
 
@@ -37,7 +37,7 @@ Edward Winslow, “A Letter Sent from New England,” 收于 Mourt’s Relation�
 ---
 
 
-### <img src="assets/vocabulary/harvest-small.png" width="64" height="64" alt="收获；丰收"> harvest /ˈhɑːrvɪst/
+### <img src="assets/vocabulary/harvest.png" width="64" height="64" alt="收获；丰收"> harvest /ˈhɑːrvɪst/
 
 **收获；丰收** 从秋日丰收，想到一年里的成长与收获。
 
@@ -46,7 +46,7 @@ Edward Winslow, “A Letter Sent from New England,” 收于 Mourt’s Relation�
 ---
 
 
-### <img src="assets/vocabulary/turkey-small.png" width="64" height="64" alt="火鸡"> turkey /ˈtɝːki/
+### <img src="assets/vocabulary/turkey.png" width="64" height="64" alt="火鸡"> turkey /ˈtɝːki/
 
 **火鸡** 美国感恩节餐桌上的代表性食物。
 
@@ -55,7 +55,7 @@ Edward Winslow, “A Letter Sent from New England,” 收于 Mourt’s Relation�
 ---
 
 
-### <img src="assets/vocabulary/pumpkin-small.png" width="64" height="64" alt="南瓜"> pumpkin /ˈpʌmpkɪn/
+### <img src="assets/vocabulary/pumpkin.png" width="64" height="64" alt="南瓜"> pumpkin /ˈpʌmpkɪn/
 
 **南瓜** 做成南瓜派，是常见的节日甜点。
 
@@ -64,7 +64,7 @@ Edward Winslow, “A Letter Sent from New England,” 收于 Mourt’s Relation�
 ---
 
 
-### <img src="assets/vocabulary/cranberry-small.png" width="64" height="64" alt="蔓越莓"> cranberry /ˈkrænberi/
+### <img src="assets/vocabulary/cranberry.png" width="64" height="64" alt="蔓越莓"> cranberry /ˈkrænberi/
 
 **蔓越莓** 酸甜的蔓越莓酱，常用来搭配火鸡。
 
@@ -73,7 +73,7 @@ Edward Winslow, “A Letter Sent from New England,” 收于 Mourt’s Relation�
 ---
 
 
-### <img src="assets/vocabulary/feast-small.png" width="64" height="64" alt="盛宴"> feast /fiːst/
+### <img src="assets/vocabulary/feast.png" width="64" height="64" alt="盛宴"> feast /fiːst/
 
 **盛宴** 形容一顿丰盛的大餐。
 
@@ -84,7 +84,7 @@ Edward Winslow, “A Letter Sent from New England,” 收于 Mourt’s Relation�
 
 ## 把感谢说出来
 
-### <img src="assets/vocabulary/thankful-small.png" width="64" height="64" alt="感激的；心怀感谢的"> thankful /ˈθæŋkfəl/
+### <img src="assets/vocabulary/thankful.png" width="64" height="64" alt="感激的；心怀感谢的"> thankful /ˈθæŋkfəl/
 
 **感激的；心怀感谢的** 想到值得感谢的人和事，就可以用上它。
 
@@ -93,7 +93,7 @@ Edward Winslow, “A Letter Sent from New England,” 收于 Mourt’s Relation�
 ---
 
 
-### <img src="assets/vocabulary/grateful-small.png" width="64" height="64" alt="感激的"> grateful /ˈɡreɪtfəl/
+### <img src="assets/vocabulary/grateful.png" width="64" height="64" alt="感激的"> grateful /ˈɡreɪtfəl/
 
 **感激的** 常用来表达对他人帮助的感谢。
 
@@ -102,7 +102,7 @@ Edward Winslow, “A Letter Sent from New England,” 收于 Mourt’s Relation�
 ---
 
 
-### <img src="assets/vocabulary/gratitude-small.png" width="64" height="64" alt="感激之情；感恩"> gratitude /ˈɡrætətuːd/
+### <img src="assets/vocabulary/gratitude.png" width="64" height="64" alt="感激之情；感恩"> gratitude /ˈɡrætətuːd/
 
 **感激之情；感恩** 这是名词；前面两个词是形容词。
 
@@ -111,7 +111,7 @@ Edward Winslow, “A Letter Sent from New England,” 收于 Mourt’s Relation�
 ---
 
 
-### <img src="assets/vocabulary/bless-small.png" width="64" height="64" alt="祝福；保佑（动词）"> bless /bles/
+### <img src="assets/vocabulary/bless.png" width="64" height="64" alt="祝福；保佑（动词）"> bless /bles/
 
 **祝福；保佑（动词）** 为他人祈愿平安与幸福。
 
@@ -122,7 +122,7 @@ Edward Winslow, “A Letter Sent from New England,” 收于 Mourt’s Relation�
 
 ## 学会两句祝福与感谢
 
-### Happy Thanksgiving! /ˈhæpi ˌθæŋksˈɡɪvɪŋ/
+### <img src="assets/vocabulary/happy-thanksgiving.png" width="64" height="64" alt="感恩节快乐！"> Happy Thanksgiving! /ˈhæpi ˌθæŋksˈɡɪvɪŋ/
 
 **感恩节快乐！** 
 
@@ -131,7 +131,7 @@ Edward Winslow, “A Letter Sent from New England,” 收于 Mourt’s Relation�
 ---
 
 
-### I'm grateful for your help. /aɪm ˈɡreɪtfəl fər jʊr help/
+### <img src="assets/vocabulary/i-m-grateful-for-your-help.png" width="64" height="64" alt="谢谢你的帮助。"> I'm grateful for your help. /aɪm ˈɡreɪtfəl fər jʊr help/
 
 **谢谢你的帮助。** 
 
@@ -142,7 +142,7 @@ Edward Winslow, “A Letter Sent from New England,” 收于 Mourt’s Relation�
 
 今天，试着说一句具体的感谢：“谢谢你听我说完”“谢谢你今天帮了我”。你最想把这句话送给谁？
 
-> 词汇释义及读音参考剑桥词典[6]。 美式音标；音频为合成语音；封面与词汇插画为AI生成。
+词汇释义及读音参考剑桥词典[6]。 美式音标；音频为合成语音；封面与词汇插画为AI生成。
 
 ## 参考文献
 

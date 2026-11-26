@@ -95,7 +95,7 @@
     "ipa": "ˈhæpi ˌθæŋksˈɡɪvɪŋ",
     "meaning": "感恩节快乐！",
     "tip": "",
-    "picture": null,
+    "picture": "assets/vocabulary/happy-thanksgiving-small.png",
     "file": "audio/11-happy-thanksgiving.wav"
   },
   {
@@ -104,7 +104,7 @@
     "ipa": "aɪm ˈɡreɪtfəl fər jʊr help",
     "meaning": "谢谢你的帮助。",
     "tip": "",
-    "picture": null,
+    "picture": "assets/vocabulary/i-m-grateful-for-your-help-small.png",
     "file": "audio/12-i-m-grateful-for-your-help.wav"
   }
 ]

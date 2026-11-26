@@ -1,7 +1,7 @@
 $ErrorActionPreference = 'Stop'
 Add-Type -AssemblyName System.Drawing
 $pictureRoot = Join-Path $PSScriptRoot 'assets/vocabulary'
-$names = @('thanksgiving','harvest','turkey','pumpkin','cranberry','feast','thankful','grateful','gratitude','bless')
+$names = @('thanksgiving','harvest','turkey','pumpkin','cranberry','feast','thankful','grateful','gratitude','bless','happy-thanksgiving','i-m-grateful-for-your-help')
 foreach ($name in $names) {
     $source = [System.Drawing.Image]::FromFile((Join-Path $pictureRoot ($name + '.png')))
     $small = New-Object System.Drawing.Bitmap 192, 192
@@ -17,4 +17,4 @@ foreach ($name in $names) {
         $source.Dispose()
     }
 }
-Write-Output 'Exported 10 small 192px assets for 64px display.'
+Write-Output ('Exported {0} small 192px assets for 64px display.' -f $names.Count)

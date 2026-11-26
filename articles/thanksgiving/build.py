@@ -31,7 +31,7 @@ ITEMS = []
 for i, (text, ipa, meaning, tip) in enumerate(WORDS + SENTENCES, 1):
     slug = re.sub(r'[^a-z0-9]+', '-', text.lower()).strip('-')
     ITEMS.append(dict(id=f'{i:02d}-{slug}', text=text, ipa=ipa, meaning=meaning, tip=tip,
-                      picture=f'assets/vocabulary/{slug}-small.png' if i <= len(WORDS) else None,
+                      picture=f'assets/vocabulary/{slug}-small.png',
                       file=f'audio/{i:02d}-{slug}.wav'))
 (ROOT / 'audio').mkdir(exist_ok=True)
 (ROOT / 'audio-manifest.json').write_text(json.dumps(ITEMS, ensure_ascii=False, indent=2), encoding='utf-8')
